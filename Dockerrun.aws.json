@@ -178,7 +178,7 @@
     ],
     "volumes": [
         {
-            "name": "nodejs-app",
+            "name": "nodejs-express",
             "host": {
                 "sourcePath": "/var/app/current"
             },
